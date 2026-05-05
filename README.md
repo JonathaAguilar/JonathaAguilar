@@ -1,58 +1,45 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hola, Soy Jonathan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1></summary>
-  </ul>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
+  <h1>Hola, Soy Jonathan</h1>
+  <p><i>"Si puedes imaginarlo, puedes programarlo" - Alejandro Miguel Taboada Sánchez</i></p>
+  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="350"/>
 </div>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">"Si puedes imaginarlo, puedes programarlo" - Alejandro Miguel Taboada Sánchez</h2></summary>
-  </ul>
-</div>
+<br>
 
-<div align="center">
-  <p><img src="https://img.icons8.com/fluency/20/mac-client.png" alt="work"/> Ingeniero en Tecnologías de la Información y Fullstack Jr en Soltver.</p>
-  <p><img src="https://img.icons8.com/fluency/20/code.png" alt="dev"/> Experiencia en desarrollo de software escalable (Next.js, Python, C#, Web2py, ASP.NET) y gestión de infraestructura de red.</p>
-  <p><img src="https://img.icons8.com/fluency/20/learning.png" alt="learn"/> Enfocado en la trazabilidad de datos, continuidad operativa y creación de sistemas ERP/CRM.</p>
-  <p><img src="https://img.icons8.com/fluency/20/new-post.png" alt="email"/> [![Gmail Badge](https://img.shields.io/badge/-jonathanaguilar2315@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:jonathanaguilar2315@gmail.com)](mailto:jonathanaguilar2315@gmail.com)</p>
-  <p><img src="https://img.icons8.com/color/20/whatsapp--v1.png" alt="whatsapp"/> Contáctame en [WhatsApp](https://wa.link/8s8obe)</p>
-</div>
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Proyectos Destacados <img src="https://img.icons8.com/fluency/24/folder-invoices.png" alt="projects"/></h2></summary>
-  </ul>
-</div>
-
-<div align="center">
-  <p><b>Sistema de Administración Soltver:</b> Desarrollo de microservicios, ERP y carga masiva XML.</p>
-  <p><b>Hielo Fénix MZT:</b> Plataforma de soluciones logísticas y marketing digital.</p>
-  <p><b>Sistemas de Gestión de Activos:</b> Proyectos de trazabilidad de datos e inventario para Grupo PINSA y UBISTOCK.</p>
-  <p><b>Sustentabilidad y Administración:</b> Desarrollo de soluciones como Eco-Tickets y directorios de facturación.</p>
-</div>
-
-<p align="center">
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathaAguilar&theme=tokyonight" alt="Top Langs" />
+    <td width="60%" valign="top">
+      <h3>Sobre Mí</h3>
+      <ul>
+        <li>Ingeniero en Tecnologías de la Información.</li>
+        <li>Actualmente <b>Fullstack Jr en Soltver</b>.</li>
+        <li>Experiencia en desarrollo de software escalable (Next.js, Python, C#, Web2py, ASP.NET).</li>
+        <li>Enfocado en la creación de sistemas ERP/CRM, trazabilidad de datos y continuidad operativa.</li>
+      </ul>
     </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonathaAguilar&theme=tokyonight" alt="GitHub Streak" />
+    <td width="40%" valign="top">
+      <h3>Contacto Rápido</h3>
+      <a href="mailto:jonathanaguilar2315@gmail.com"><img src="https://img.shields.io/badge/Email-jonathanaguilar2315%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><br><br>
+      <a href="https://wa.link/8s8obe"><img src="https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a><br><br>
+      <a href="https://jonathanaguilar.dev"><img src="https://img.shields.io/badge/Portafolio-jonathanaguilar.dev-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
     </td>
   </tr>
 </table>
-</p>
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías <img src="https://img.icons8.com/fluency/24/source-code.png" alt="tech"/></h2></summary>
-  </ul>
-</div>
+
+---
+
+### Proyectos Destacados
+
+- **Sistema de Administración Soltver:** Desarrollo de microservicios, sistema ERP y carga masiva XML.
+- **Hielo Fénix MZT:** Plataforma integral de soluciones logísticas y marketing digital.
+- **Gestión de Activos (Grupo PINSA y UBISTOCK):** Desarrollo de proyectos enfocados en trazabilidad de datos y control de inventario.
+- **Sustentabilidad y Administración:** Desarrollo de soluciones corporativas, incluyendo Eco-Tickets y directorios de facturación.
+
+---
+
+### Tecnologías y Herramientas
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -60,23 +47,26 @@
   </a>
 </p>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Conecta Conmigo <img src="https://img.icons8.com/fluency/24/handshake.png" alt="connect"/></h2></summary>
-  </ul>
-</div>
+---
+
+### Estadísticas
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jonathan-jesus-aguilar-romero-239087313/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/tiojona23/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://jonathanaguilar.dev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="portfolio" height="50" width="50" /></a>
+  <a href="https://github.com/JonathaAguilar">
+    <img src="https://github-readme-stats.vercel.app/api?username=JonathaAguilar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
+  </a>
+  <a href="https://github.com/JonathaAguilar">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonathaAguilar&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
+  </a>
 </p>
 
+<br>
+
 <div align="center">
-  <h4 align="center">Contador de Visitas <img src="https://img.icons8.com/fluency/20/visible.png" alt="views"/></h4>
-  <p align="center"><img src="https://profile-counter.glitch.me/{JonathaAguilar}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+  <a href="https://www.linkedin.com/in/jonathan-jesus-aguilar-romero-239087313/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/tiojona23/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <p align="center"><i>@autor Ing. Jonathan Jesus Aguilar R. Todos los derechos reservados.</i></p>
