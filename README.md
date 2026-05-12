@@ -56,9 +56,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonathaAguilar&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
   </a>
 </p>
-<p align="center">
+<center>
 [![localhost:3000](https://localhost3000official.vercel.app/api/badge/7fb2515b-f893-4928-b8c9-d9fdc7e3d605)](https://localhost3000official.vercel.app/p/7fb2515b-f893-4928-b8c9-d9fdc7e3d605)
-</p>
+</center>
 <br>
 
 <div align="center">
