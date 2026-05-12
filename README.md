@@ -57,6 +57,8 @@
   </a>
 </p>
 
+[![localhost:3000](https://localhost3000official.vercel.app/api/badge/7fb2515b-f893-4928-b8c9-d9fdc7e3d605)](https://localhost3000official.vercel.app/p/7fb2515b-f893-4928-b8c9-d9fdc7e3d605)
+
 <br>
 
 <div align="center">
